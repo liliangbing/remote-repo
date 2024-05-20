@@ -1,3 +1,4 @@
 apollo_p2-full_ota-eng.liliangbing.zip filter=lfs diff=lfs merge=lfs -text
 apollo_p2-full_ota-eng.liliangbing.zip
  filter=lfs diff=lfs merge=lfs -text
+apollo_p2-full_ota-R3.20240520.zip filter=lfs diff=lfs merge=lfs -text
